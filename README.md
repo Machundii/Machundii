@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Machundii
 - 👀 I’m interested in Blockchain and Web3 Technologiea
-- 🌱 I’m currently learning React and Node.js
+- 🌱 I’m currently learning Python and SQL for Data Analysis/Science
+- Interested in AI/ML 
 - 💞️ I’m looking to collaborate on anything interesting 
 - 📫 How to reach me danielikilama@gmail.com 
 
