@@ -2,11 +2,27 @@
 
 
 
-- 👋 Hi, I’m @Machundii
-- 👀 I’m interested in Blockchain and Web3 Technologiea
-- 🌱 I’m currently learning Python and SQL for Data Analysis/Science
-- Interested in AI/ML 
-- 💞️ I’m looking to collaborate on anything interesting 
+- 👋 Hi, I’m @Machundii, 
+- 🌱 I’m a Data Analyst with experience in data analysis and reporting, query optimization, data visualisation, and research and analysis, also Interested in AI/ML and             Prompt engineering
+- 👀 I’m also interested in Blockchain and Web3 Technologies
+- 💞️ I’m looking to collaborate on anything interesting
+   
+- 📚 Projects
+- Welcome to my portfolio, where I showcase my projects. {    }
+- 
+- 🛠️ Tools
+    Language: SQL, Python
+    Database: Google BigQuery, PostgreSQL, MySQL
+    Visualization: Tableau, Microsoft PowerBI
+    Statistical Analysis: SPSS, Python
+
+- 💡🧠Skills
+- Querying data using SQL.
+- Generate reports and perform exploratory data analysis using Python.
+- Developing dashboards on Tableau and Microsoft PowerBI.
+- Data analysis and reporting using Google Sheets and Excel.
+  
+  
 - 📫 How to reach me danielikilama@gmail.com 
 
 <!---
