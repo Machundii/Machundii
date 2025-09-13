@@ -1,3 +1,7 @@
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/570b9e46-ae9c-4bef-b152-503f140ad80e" />
+
+
+
 - 👋 Hi, I’m @Machundii
 - 👀 I’m interested in Blockchain and Web3 Technologiea
 - 🌱 I’m currently learning Python and SQL for Data Analysis/Science
